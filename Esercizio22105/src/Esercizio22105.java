@@ -1,5 +1,5 @@
 //Stampare la tabella dei caratteri ASCII. 
-public class Esercizio22104 {
+public class Esercizio22105 {
 	public static void main(String[] args) {
 
 		for (int i = 0; i <= 255; i++) {
