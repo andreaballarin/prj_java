@@ -1,6 +1,0 @@
-
-public class ValutaChange {
-	public double EuroYen(double euro) {
-		return euro*0.85;
-	}
-}
